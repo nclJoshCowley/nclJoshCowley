@@ -1,7 +1,17 @@
-Josh Cowley, PhD Student
+# Josh Cowley
 
-Interested in R, Python and data visualisation.
+PhD candidate, Newcastle University.
 
-I intend to make this page a portfolio of personal projects by the end of my studies.
+Data science enthusiast.
 
-Check back here for interesting projects.
+---
+
+- [**GitHub**](https://github.com/nclJoshCowley)
+
+- [**Blog**](https://josh.quarto.pub)
+
+- [**LinkedIn**](https://www.linkedin.com/in/josh-cowley-28a3a7194/)
+
+- [**University Email** (j.cowley1@ncl.ac.uk)](mailto:j.cowley1@ncl.ac.uk)
+
+- [**Personal Email** (josh.cowley@hotmail.com)](mailto:josh.cowley@hotmail.com)
