@@ -14,6 +14,6 @@
 
 - [**LinkedIn**](https://www.linkedin.com/in/josh-cowley-28a3a7194/)
 
-- [**NWG Email** (josh.cowley@nwl.co.uk)](mailto:)
+- [**NWG Email** (josh.cowley@nwl.co.uk)](mailto:josh.cowley@nwl.co.uk)
 
 - [**Personal Email** (josh.cowley@hotmail.com)](mailto:josh.cowley@hotmail.com)
