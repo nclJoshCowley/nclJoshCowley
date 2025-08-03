@@ -1,8 +1,10 @@
 # Josh Cowley
 
-PhD candidate, Newcastle University.
+## Asset Modelling Data Scientist, Northumbrian Water
 
-Data science enthusiast.
+> Delivering Insight through Data in the Water Industry
+
+<!-- Mini-portfolio here if personal site ever gets created. -->
 
 ---
 
@@ -12,6 +14,6 @@ Data science enthusiast.
 
 - [**LinkedIn**](https://www.linkedin.com/in/josh-cowley-28a3a7194/)
 
-- [**University Email** (j.cowley1@ncl.ac.uk)](mailto:j.cowley1@ncl.ac.uk)
+- [**NWG Email** (josh.cowley@nwl.co.uk)](mailto:)
 
 - [**Personal Email** (josh.cowley@hotmail.com)](mailto:josh.cowley@hotmail.com)
